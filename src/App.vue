@@ -17,6 +17,10 @@
     <Exercise09></Exercise09>
     <br />
     <Exercise10></Exercise10>
+    <br />
+    <Excercise11></Excercise11>
+    <br />
+    <Excercise12></Excercise12>
   </div>
 </template>
 
@@ -32,6 +36,8 @@ import Exercise07 from "./components/bt07/Exercise07.vue";
 import Excercise08 from "./components/bt08/Excercise08.vue";
 import Exercise09 from "./components/bt09/Exercise09.vue";
 import Exercise10 from "./components/bt10/Exercise10.vue";
+import Excercise11 from "./components/bt11/Excercise11.vue";
+import Excercise12 from "./components/bt12/Excercise12.vue";
 </script>
 
 <style></style>
